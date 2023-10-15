@@ -85,3 +85,8 @@
     font-style: normal;
     color: grey;
   }
+  .completed{
+    text-decoration: line-through;
+
+
+  }
